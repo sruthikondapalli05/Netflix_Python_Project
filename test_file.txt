@@ -1,0 +1,4 @@
+total_titles: 8807
+movies_count: 6131
+Tv_show:2676
+writing into the file is done
